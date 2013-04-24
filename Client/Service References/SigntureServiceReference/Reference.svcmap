@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f3fd603c-6e45-40fd-b772-c8f77703f385" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://127.0.0.1:9999/signtureservice/metadata" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SignatureServices.wsdl" MetadataType="Wsdl" ID="e3cb894c-51ea-4737-8865-7c9edba70013" SourceId="1" SourceUrl="http://127.0.0.1:9999/signtureservice/metadata" />
+    <MetadataFile FileName="metadata.xsd" MetadataType="Schema" ID="e10ee2b3-fc28-42c7-b0a0-abcbd7b7f65f" SourceId="1" SourceUrl="http://127.0.0.1:9999/signtureservice/metadata?xsd=xsd0" />
+    <MetadataFile FileName="metadata1.xsd" MetadataType="Schema" ID="01fd7aed-7e69-4e8f-ac3a-abe316c2fee8" SourceId="1" SourceUrl="http://127.0.0.1:9999/signtureservice/metadata?xsd=xsd1" />
+    <MetadataFile FileName="metadata2.xsd" MetadataType="Schema" ID="6c7b4666-ae4c-42d3-8bda-e0b7a40f3554" SourceId="1" SourceUrl="http://127.0.0.1:9999/signtureservice/metadata?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
