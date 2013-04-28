@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IosWCF", "IosWCF\IosWCF.csproj", "{C567D55D-DEF8-4309-9658-78CC3AA8E8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{842D6BF0-E0AC-4871-8E09-77418224E493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointService", "PointService\PointService.csproj", "{E2A2CE51-1F3C-426B-A6ED-3F72CF25EA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C567D55D-DEF8-4309-9658-78CC3AA8E8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C567D55D-DEF8-4309-9658-78CC3AA8E8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C567D55D-DEF8-4309-9658-78CC3AA8E8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C567D55D-DEF8-4309-9658-78CC3AA8E8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842D6BF0-E0AC-4871-8E09-77418224E493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842D6BF0-E0AC-4871-8E09-77418224E493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842D6BF0-E0AC-4871-8E09-77418224E493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842D6BF0-E0AC-4871-8E09-77418224E493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A2CE51-1F3C-426B-A6ED-3F72CF25EA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A2CE51-1F3C-426B-A6ED-3F72CF25EA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A2CE51-1F3C-426B-A6ED-3F72CF25EA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A2CE51-1F3C-426B-A6ED-3F72CF25EA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
